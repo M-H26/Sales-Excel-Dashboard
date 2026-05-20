@@ -1,6 +1,4 @@
-# Sales-Excel-Dashboard
-Sales dashboard built using Excel
-# Excel Sales Dashboard
+# Sales Dashboard Using Excel
 
 This project is an interactive Excel dashboard for sales analysis.
 
